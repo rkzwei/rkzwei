@@ -1,4 +1,10 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkzwei)](https://github.com/anuraghazra/github-readme-stats)
+
+## ⚡ Languages & Frameworks & Skills ⚡:
+
+### 📡 Backend: 
+[![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+[![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 <!--
 **rkzwei/rkzwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
