@@ -1,4 +1,4 @@
-![Stats-Dark](https://github-readme-stats.vercel.app/api?username=rkzwei&hide=stars,contribs&theme=bear&hide_rank=true#gh-dark-mode-only)
+![Stats-Dark](https://github-readme-stats.vercel.app/api?username=rkzwei&hide=stars,contribs&theme=bear&hide_rank=false#gh-dark-mode-only)
 <!--[Stats-Light](https://github-readme-stats.vercel.app/api?username=rkzwei&hide-rank=false&theme=swift#gh-light-mode-only)-->
 
 ## ⚡ Languages & Frameworks & Skills ⚡:
