@@ -1,63 +1,47 @@
-![Stats-Dark](https://github-readme-stats.vercel.app/api?username=rkzwei&hide=stars,contribs&theme=bear&hide_rank=true#gh-dark-mode-only)
-<!--[Stats-Light](https://github-readme-stats.vercel.app/api?username=rkzwei&hide-rank=true&theme=swift#gh-light-mode-only)-->
+<img src="https://media1.tenor.com/m/p5q73vRBB5sAAAAC/obiwan-hellothere.gif" alt = "GIF image of obi wan kenobi in his famous scene of 'hello there" width="35%">
+<h3>I'm Gabriel Neves, but I go by rk!</h3>
 
-## ⚡ Languages & Frameworks & Skills ⚡:
 
-###  Web Development 📡:
-#### 🔨 - Backend:
-![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![DJANGOR](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+My journey has been anything but linear – I'm drawn to opportunities where I can learn and grow, and I've worn many hats along the way. For years, I thrived in the fast-paced world of aviation, where meticulous planning, clear communication, and grace under pressure were essential. As an Aircraft Dispatcher, I learned to manage complex logistics, troubleshoot critical systems, and ensure smooth operations – skills that translate seamlessly to the world of software development.
 
-#### 💾 - Database:
-![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SLQLITE](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SUPABASE](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+Driven by a desire to build and create, I transitioned into the tech world and dove headfirst into the exciting world of DevOps. I love the challenge of building scalable, reliable systems, and I'm constantly expanding my toolkit. Some of my current favorites include Docker, Google Cloud Platform, AWS, Kubernetes, and of course, the power of automation with CI/CD pipelines. (And yes, I'm a Python enthusiast, but always excited to explore new languages!)
 
-### DevOps/SRE ♾️:
-#### 📡 Providers:
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![NEXTC](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)
+Outside of coding, you can find me mentoring aspiring techies – I'm passionate about sharing my knowledge and empowering the next generation of problem solvers.
 
-#### 🏢 Scripting & IAC:
-![TERRAFORM](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![SHELL](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+#### &nbsp; Web Development 📡:
 
-#### 🔎 Deploy & Monitor:
-![K8s](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![GRAFANA](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
-![PROMETHEUS](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)
+![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)&nbsp;
 
-#### 🚦CI > CD:
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GHACT](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GITLAB](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![JENKINS](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=fla&logo=pandas&logoColor=white)&nbsp;
+![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=fla&logo=mysql&logoColor=white)&nbsp;
+![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=fla&logo=postgresql&logoColor=white)&nbsp;
+#### DevOps/SRE ♾️:
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![TERRAFORM](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;
 
-### Others:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![RUST](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=E57324)
-![ITERM](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
-![TMUX](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
-![SWAGGER](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
-![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![SHELL](https://img.shields.io/badge/Shell_Script-121011?style=fla&logo=gnu-bash&logoColor=white)&nbsp;
+![K8s](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=fla&logo=kubernetes&logoColor=white)&nbsp;
+![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=fla&logo=docker&logoColor=white)&nbsp;
+![GRAFANA](https://img.shields.io/badge/Grafana-F2F4F9?style=fla&logo=grafana&logoColor=orange&labelColor=F2F4F9)&nbsp;
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=fla&logo=git&logoColor=white)&nbsp;
+![GHACT](https://img.shields.io/badge/GitHub_Actions-2088FF?style=fla&logo=github-actions&logoColor=white)&nbsp;
 
-### IDEs and Tools 🛠:
-![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PYCHARM](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![TRELLO](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![VIRTUALBOX](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=fla&logo=c&logoColor=white)&nbsp;
+![TMUX](https://img.shields.io/badge/tmux-1BB91F?style=fla&logo=tmux&logoColor=white)&nbsp;
+![SWAGGER](https://img.shields.io/badge/Swagger-85EA2D?style=fla&logo=Swagger&logoColor=white)&nbsp;
+![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=fla&logo=Postman&logoColor=white)&nbsp;
 
-### OS 💿:
-![MAC](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![DEBIAN](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![FEDORA](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![ARCH](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=fla&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![INTELLIJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=fla)&nbsp;
+![TRELLO](https://img.shields.io/badge/Trello-0052CC?style=fla&logo=trello&logoColor=white)&nbsp;
 
-![LANG-USE](https://github-readme-stats.vercel.app/api/top-langs/?username=rkzwei&theme=bear)
+![MAC](https://img.shields.io/badge/mac%20os-000000?style=fla&logo=apple&logoColor=white)&nbsp;
+![DEBIAN](https://img.shields.io/badge/Debian-A81D33?style=fla&logo=debian&logoColor=white)&nbsp;
+![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=fla&logo=ubuntu&logoColor=white)&nbsp;
+![FEDORA](https://img.shields.io/badge/Fedora-294172?style=fla&logo=fedora&logoColor=white)&nbsp;
+![ARCH](https://img.shields.io/badge/Arch_Linux-1793D1?style=fla&logo=arch-linux&logoColor=white)&nbsp;
+
+![LANG-USE](https://github-readme-stats.vercel.app/api/top-langs/?username=rkzwei&theme=bear)![Stats-Dark](https://github-readme-stats.vercel.app/api?username=rkzwei&hide=stars,contribs&theme=bear&hide_rank=true#gh-dark-mode-only)
+
